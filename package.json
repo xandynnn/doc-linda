@@ -1,0 +1,27 @@
+{
+  "name": "doc-linda",
+  "version": "1.0.0",
+  "description": "Criação de documentação com Markdown",
+  "main": "src/install.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node src/install.js",
+    "docLinda": "node src/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xandynnn/doc-linda.git"
+  },
+  "keywords": [
+    "doc",
+    "documentation",
+    "markdown"
+  ],
+  "author": "Alexandre T. <xandynnn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xandynnn/doc-linda/issues"
+  },
+  "homepage": "https://github.com/xandynnn/doc-linda#readme"
+}
